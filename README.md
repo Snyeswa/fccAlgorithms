@@ -1,1 +1,1 @@
-Solving Java basic algorithm
+Solving JavaScript basic algorithm
